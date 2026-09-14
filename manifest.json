@@ -1,0 +1,23 @@
+{
+  "name": "RicCoin — Consulta de Criptomoedas",
+  "short_name": "RicCoin",
+  "description": "Consulte preços de criptomoedas em tempo real.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#05070F",
+  "theme_color": "#05070F",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
